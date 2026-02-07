@@ -7,22 +7,7 @@ Both frontend and backend are maintained in a **single repository** for easy dev
 
 ## 📁 Project Structure
 
-project-root/
-│
-├── frontend/ # Angular application
-│ ├── src/
-│ ├── angular.json
-│ └── package.json
-│
-├── backend/ # Node.js / Express server
-│ ├── server.js
-│ ├── routes/
-│ ├── controllers/
-│ └── package.json
-│
-├── README.md
-└── .gitignore
-
+<img width="541" height="493" alt="image" src="https://github.com/user-attachments/assets/6e0ddb36-d19f-4454-ac9c-a9cc01cbf9d2" />
 
 ---
 
